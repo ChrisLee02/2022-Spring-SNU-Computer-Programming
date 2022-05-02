@@ -115,5 +115,7 @@ public class Test {
         System.out.println("\tBalance of ManyPeople should be 96667 : " +  assetManage.getNameLab().get("ManyPeople").getBalance());
         System.out.println("\tBalance of Newborn should be 96667 : " +  assetManage.getNameLab().get("Newborn").getBalance()+"\n");
     }
+
+
 }
 
