@@ -37,6 +37,7 @@ public class Test {
             String content = Files.readString(Paths.get(output)).replaceAll("\\s", "");
             String content2 = (ui.authView.getOutput() + ui.postView.getOutput()).replaceAll("\\s", "");
             printOX(testName, content2.equals(content));
+
         } catch (IOException e) {
             e.printStackTrace();
         }
