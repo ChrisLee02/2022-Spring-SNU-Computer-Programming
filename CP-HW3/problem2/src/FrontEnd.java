@@ -16,8 +16,13 @@ public class FrontEnd {
     public boolean auth(String authInfo) {
         // TODO sub-problem 1
         String[] parsedAuthInfo = authInfo.split("\n");
-        String ID = parsedAuthInfo[0];
-        String PW = parsedAuthInfo[1];
+        String ID, PW;
+        try {
+            ID = parsedAuthInfo[0];
+            PW = parsedAuthInfo[1];
+        } catch (Exception e) {
+            return false;
+        }
 
         boolean authenticated = backend.authenticate(ID, PW);
         if (authenticated) {

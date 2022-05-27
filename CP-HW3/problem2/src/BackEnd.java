@@ -8,10 +8,10 @@ import java.util.*;
 public class BackEnd extends ServerResourceAccessible {
 
     public boolean authenticate(String id, String pw) {
-        String password;
-        String dir = getServerStorageDir();
-        File pwFile = new File(dir + id + "/password.txt");
         try {
+            String password;
+            String dir = getServerStorageDir();
+            File pwFile = new File(dir + id + "/password.txt");
             Scanner scanner = new Scanner(pwFile);
             password = scanner.nextLine();
             return password.equals(pw);
@@ -41,34 +41,30 @@ public class BackEnd extends ServerResourceAccessible {
     }
 
     public void post(String id, List titleContentList) {
-        String title = (String) titleContentList.get(0);
-        String advertising = (String) titleContentList.get(1);;
-        String content = (String) titleContentList.get(2);
-        content = content.substring(0, content.length()-2);
-        String nowDateTime = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss"));
-        String entireContent = nowDateTime + "\n" + title + "\n" + advertising + "\n\n" + content;
-        String dir = getServerStorageDir();
-        List<String> userIDs = getEveryUser();
-        int max = -1;
-        for(String userid: userIDs) {
-            File path = new File(dir + userid + "/post");
-            File[] fileList = path.listFiles();
-            for (File file : fileList) {
-                int fileNumber = getFileID(file);
-                if (fileNumber > max) max = fileNumber;
-            }
-        }
-
-
         try {
+            String title = (String) titleContentList.get(0);
+            String advertising = (String) titleContentList.get(1);;
+            String content = (String) titleContentList.get(2);
+            content = content.substring(0, content.length()-2);
+            String nowDateTime = LocalDateTime.now().format(DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss"));
+            String entireContent = nowDateTime + "\n" + title + "\n" + advertising + "\n\n" + content;
+            String dir = getServerStorageDir();
+            List<String> userIDs = getEveryUser();
+            int max = -1;
+            for(String userid: userIDs) {
+                File path = new File(dir + userid + "/post");
+                File[] fileList = path.listFiles();
+                for (File file : fileList) {
+                    int fileNumber = getFileID(file);
+                    if (fileNumber > max) max = fileNumber;
+                }
+            }
             FileWriter fileWriter = new FileWriter(dir + id + "/post/" + (max + 1) + ".txt");
             fileWriter.write(entireContent);
             fileWriter.close();
         } catch (Exception e) {
             return;
         }
-
-
     }
 
     class PostWithKeywords extends Post implements Comparable {
@@ -94,22 +90,25 @@ public class BackEnd extends ServerResourceAccessible {
         }
 
         public void countKeywords(Set<String> keywords) {
-            if(totalKeywords != 0) {
-                return;
-            }
-            for(String keyword: keywords) {
-                for(String titleWord: getTitle().split(" ")) {
-                    if(titleWord.equals(keyword)) totalKeywords++;
+            try {
+                if(totalKeywords != 0) {
+                    return;
                 }
+                for(String keyword: keywords) {
+                    for(String titleWord: getTitle().split(" ")) {
+                        if(titleWord.equals(keyword)) totalKeywords++;
+                    }
 
-                for(String contentLine: getContent().split("\n")) {
-                    for(String contentWord: contentLine.split(" ")) {
-                        totalWordCount++;
-                        if(contentWord.equals(keyword)) totalKeywords++;
+                    for(String contentLine: getContent().split("\n")) {
+                        for(String contentWord: contentLine.split(" ")) {
+                            totalWordCount++;
+                            if(contentWord.equals(keyword)) totalKeywords++;
+                        }
                     }
                 }
+            } catch (Exception e) {
+                return;
             }
-
         }
 
         @Override
@@ -165,7 +164,6 @@ public class BackEnd extends ServerResourceAccessible {
                     //System.out.println(e.getMessage());
                     return;
                 }
-
             }
         }
     }
