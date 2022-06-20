@@ -1,0 +1,192 @@
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid product name.
+ADMIN_UI: Invalid product name.
+ADMIN_UI: Invalid product name.
+ADMIN_UI: Products: []
+ADMIN_UI: tissue is added to the database.
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid price.
+ADMIN_UI: tissue is modified from the database.
+ADMIN_UI: Products: [(tissue, 3000)]
+ADMIN_UI: chair is added to the database.
+ADMIN_UI: desk is added to the database.
+ADMIN_UI: Products: [(tissue, 3000), (chair, 1234), (desk, 5678)]
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid price.
+ADMIN_UI: Invalid price.
+ADMIN_UI: chair is modified from the database.
+ADMIN_UI: desk is modified from the database.
+ADMIN_UI: Products: [(tissue, 3000), (chair, 9999), (desk, 999)]
+ADMIN_UI: A is added to the database.
+ADMIN_UI: B is added to the database.
+ADMIN_UI: C is added to the database.
+ADMIN_UI: D is added to the database.
+ADMIN_UI: E is added to the database.
+ADMIN_UI: F is added to the database.
+ADMIN_UI: G is added to the database.
+ADMIN_UI: H is added to the database.
+ADMIN_UI: Products: [(tissue, 3000), (chair, 9999), (desk, 999), (A, 1506), (B, 63140), (C, 75758), (D, 96924), (E, 521057), (F, 13), (G, 8), (H, 362)]
+ADMIN_UI: test1 is added to the database.
+ADMIN_UI: test2 is added to the database.
+ADMIN_UI: test3 is added to the database.
+ADMIN_UI: Products: [(tissue, 3000), (chair, 9999), (desk, 999), (A, 1506), (B, 63140), (C, 75758), (D, 96924), (E, 521057), (F, 13), (G, 8), (H, 362), (test1, 4), (test2, 5), (test3, 15565)]
+CLIENT_UI: u1 is signed up.
+CLIENT_UI: u2 is signed up.
+CLIENT_UI: Invalid username or password.
+CLIENT_UI: Invalid username or password.
+CLIENT_UI: u1 is logged in.
+CLIENT_UI: Please logout first.
+CLIENT_UI: Please logout first.
+CLIENT_UI: Please logout first.
+CLIENT_UI: u1 is logged out.
+CLIENT_UI: There is no logged-in user.
+CLIENT_UI: u1 is logged in.
+CLIENT_UI: u1 is logged out.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Please login first.
+CLIENT_UI: Amy is signed up.
+CLIENT_UI: Bobby is signed up.
+CLIENT_UI: Carry is signed up.
+CLIENT_UI: Dally is signed up.
+CLIENT_UI: Emily is signed up.
+CLIENT_UI: Freddy is signed up.
+CLIENT_UI: Amy is logged in.
+CLIENT_UI: Recommended products: []
+CLIENT_UI: Cart: []
+CLIENT_UI: Purchase completed. Price: 1355.
+CLIENT_UI: Cart: []
+CLIENT_UI: Purchase completed. Price: 56826.
+CLIENT_UI: Cart: []
+CLIENT_UI: C is added to the cart.
+CLIENT_UI: D is added to the cart.
+CLIENT_UI: C is added to the cart.
+CLIENT_UI: Cart: [(C, 68182), (D, 87232), (C, 68182)]
+ADMIN_UI: C is modified from the database.
+CLIENT_UI: Cart: [(C, 90000), (D, 87232), (C, 90000)]
+ADMIN_UI: C is modified from the database.
+CLIENT_UI: Cart: [(C, 68182), (D, 87232), (C, 68182)]
+CLIENT_UI: Cart purchase completed. Total price: 223596.
+CLIENT_UI: Cart: []
+CLIENT_UI: Amy is logged out.
+CLIENT_UI: Please login first.
+CLIENT_UI: u1 is logged in.
+CLIENT_UI: Cart: []
+CLIENT_UI: u1 is logged out.
+CLIENT_UI: Amy is logged in.
+CLIENT_UI: Cart: []
+CLIENT_UI: Recommended products: []
+CLIENT_UI: Amy is logged out.
+CLIENT_UI: Bobby is logged in.
+CLIENT_UI: A is added to the cart.
+CLIENT_UI: C is added to the cart.
+CLIENT_UI: Cart: [(A, 1355), (C, 68182)]
+CLIENT_UI: Cart purchase completed. Total price: 69537.
+CLIENT_UI: Purchase completed. Price: 1355.
+CLIENT_UI: Cart purchase completed. Total price: 0.
+CLIENT_UI: Cart purchase completed. Total price: 0.
+CLIENT_UI: Recommended products: [(C, 68182)]
+CLIENT_UI: Bobby is logged out.
+CLIENT_UI: Carry is logged in.
+CLIENT_UI: B is added to the cart.
+CLIENT_UI: B is added to the cart.
+CLIENT_UI: C is added to the cart.
+CLIENT_UI: D is added to the cart.
+CLIENT_UI: A is added to the cart.
+CLIENT_UI: E is added to the cart.
+CLIENT_UI: Invalid product name.
+CLIENT_UI: Invalid product name.
+CLIENT_UI: Cart: [(B, 63140), (B, 63140), (C, 75758), (D, 96924), (A, 1506), (E, 521057)]
+CLIENT_UI: Cart purchase completed. Total price: 821525.
+ADMIN_UI: Invalid product name.
+ADMIN_UI: Invalid product name.
+ADMIN_UI: Invalid product name.
+CLIENT_UI: Recommended products: [(B, 63140), (E, 521057), (A, 1506)]
+CLIENT_UI: Carry is logged out.
+CLIENT_UI: Dally is logged in.
+CLIENT_UI: A is added to the cart.
+CLIENT_UI: C is added to the cart.
+CLIENT_UI: E is added to the cart.
+CLIENT_UI: B is added to the cart.
+CLIENT_UI: Cart: [(A, 1506), (C, 75758), (E, 521057), (B, 63140)]
+CLIENT_UI: Cart purchase completed. Total price: 661461.
+CLIENT_UI: Recommended products: [(B, 63140), (E, 521057), (C, 75758)]
+CLIENT_UI: Dally is logged out.
+CLIENT_UI: Emily is logged in.
+CLIENT_UI: Purchase completed. Price: 68182.
+CLIENT_UI: Purchase completed. Price: 68182.
+CLIENT_UI: Recommended products: [(C, 68182), (A, 1355), (E, 468951)]
+CLIENT_UI: Purchase completed. Price: 1355.
+CLIENT_UI: Recommended products: [(C, 68182), (A, 1355), (E, 468951)]
+CLIENT_UI: Cart: []
+CLIENT_UI: Cart purchase completed. Total price: 0.
+CLIENT_UI: Emily is logged out.
+CLIENT_UI: Freddy is logged in.
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Recommended products: [(A, 1506)]
+CLIENT_UI: Cart: []
+CLIENT_UI: Cart purchase completed. Total price: 0.
+CLIENT_UI: Freddy is logged out.
+CLIENT_UI: Amy is logged in.
+CLIENT_UI: Recommended products: [(A, 1355), (E, 468951), (B, 56826)]
+CLIENT_UI: Amy is logged out.
+CLIENT_UI: Bobby is logged in.
+CLIENT_UI: Recommended products: [(A, 1355), (C, 68182), (E, 468951)]
+ADMIN_UI: E is modified from the database.
+CLIENT_UI: Recommended products: [(A, 1355), (C, 68182), (E, 90000)]
+ADMIN_UI: E is modified from the database.
+CLIENT_UI: Recommended products: [(A, 1355), (C, 68182), (E, 468951)]
+CLIENT_UI: Bobby is logged out.
+CLIENT_UI: Emily is logged in.
+CLIENT_UI: Recommended products: [(A, 1355), (C, 68182), (E, 468951)]
+CLIENT_UI: Emily is logged out.
+CLIENT_UI: Carry is logged in.
+CLIENT_UI: Purchase completed. Price: 1506.
+CLIENT_UI: Carry is logged out.
+CLIENT_UI: Amy is logged in.
+CLIENT_UI: Recommended products: [(A, 1355), (B, 56826)]
+CLIENT_UI: Amy is logged out.
+CLIENT_UI: u2 is logged in.
+CLIENT_UI: Purchase completed. Price: 4.
+CLIENT_UI: Cart: []
+CLIENT_UI: test2 is added to the cart.
+CLIENT_UI: Cart: [(test2, 5)]
+CLIENT_UI: test3 is added to the cart.
+CLIENT_UI: Cart: [(test2, 5), (test3, 14009)]
+CLIENT_UI: Cart purchase completed. Total price: 14014.
+CLIENT_UI: Cart: []
+CLIENT_UI: u2 is logged out.
+CLIENT_UI: u1 is logged in.
+CLIENT_UI: Recommended products: []
+CLIENT_UI: Purchase completed. Price: 4.
+CLIENT_UI: Recommended products: [(test1, 4)]
+CLIENT_UI: Purchase completed. Price: 5.
+CLIENT_UI: Recommended products: [(test2, 5), (test1, 4)]
+CLIENT_UI: Purchase completed. Price: 15565.
+CLIENT_UI: Recommended products: [(test3, 15565), (test2, 5), (test1, 4)]
+CLIENT_UI: Purchase completed. Price: 5.
+CLIENT_UI: Recommended products: [(test2, 5), (test3, 15565), (test1, 4)]
+CLIENT_UI: Purchase completed. Price: 4.
+CLIENT_UI: Recommended products: [(test1, 4), (test2, 5), (test3, 15565)]
+CLIENT_UI: u1 is logged out.

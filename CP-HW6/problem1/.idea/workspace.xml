@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="problem1" targetName="ExperimentalMemCheck" />
+      <config projectName="problem1" targetName="Experimental" />
+      <config projectName="problem1" targetName="ExperimentalCoverage" />
+      <config projectName="problem1" targetName="Nightly" />
+      <config projectName="problem1" targetName="ContinuousConfigure" />
+      <config projectName="problem1" targetName="ContinuousStart" />
+      <config projectName="problem1" targetName="ContinuousBuild" />
+      <config projectName="problem1" targetName="ExperimentalSubmit" />
+      <config projectName="problem1" targetName="NightlyMemoryCheck" />
+      <config projectName="problem1" targetName="NightlyConfigure" />
+      <config projectName="problem1" targetName="ExperimentalStart" />
+      <config projectName="problem1" targetName="NightlySubmit" />
+      <config projectName="problem1" targetName="problem1_main" />
+      <config projectName="problem1" targetName="ContinuousUpdate" />
+      <config projectName="problem1" targetName="NightlyBuild" />
+      <config projectName="problem1" targetName="ContinuousCoverage" />
+      <config projectName="problem1" targetName="ContinuousMemCheck" />
+      <config projectName="problem1" targetName="NightlyTest" />
+      <config projectName="problem1" targetName="ExperimentalTest" />
+      <config projectName="problem1" targetName="ExperimentalConfigure" />
+      <config projectName="problem1" targetName="NightlyMemCheck" />
+      <config projectName="problem1" targetName="NightlyCoverage" />
+      <config projectName="problem1" targetName="problem1_test" />
+      <config projectName="problem1" targetName="Continuous" />
+      <config projectName="problem1" targetName="ContinuousSubmit" />
+      <config projectName="problem1" targetName="ContinuousTest" />
+      <config projectName="problem1" targetName="NightlyStart" />
+      <config projectName="problem1" targetName="ExperimentalBuild" />
+      <config projectName="problem1" targetName="ExperimentalUpdate" />
+      <config projectName="problem1" targetName="NightlyUpdate" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7772784c-38ff-42a7-b060-18277e641af6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../2021-18641.zip" beforeDir="false" afterPath="$PROJECT_DIR$/../../2021-18641.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2017-10000/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2017-10000/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2020-20001/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2020-20001/lec1/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2020-20001/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-12345/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-12345/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-30002/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-30002/lec1/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-30002/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust-backup/2022-30002/lec2/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2017-10000/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2017-10000/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2020-20001/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2020-20001/lec1/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2020-20001/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-12345/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-12345/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-30002/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-30002/lec1/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-30002/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-robust/2022-30002/lec2/log1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2017-10000/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2017-10000/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2020-20001/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2020-20001/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2022-30002/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple-backup/2022-30002/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2017-10000/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2017-10000/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2020-20001/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2020-20001/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2022-30002/lec1/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/data/attendance-simple/2022-30002/lec2/log0.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/attendancechecker/Grader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/attendancechecker/attendance/AttendanceList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/attendancechecker/attendance/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/attendancechecker/attendance/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem1/src/attendancechecker/utils/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Baseball/3/3_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Baseball/6/6_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Basketball/2/2_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Basketball/9/9_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Football/0/0_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Football/1/1_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Hockey/5/5_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Hockey/8/8_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Volleyball/4/4_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Volleyball/7/7_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Matches_backup/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users/2022-00000/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users/2022-11111/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users/2022-22222/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users/2022-33333/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users/2022-44444/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users_backup/2022-00000/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users_backup/2022-11111/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users_backup/2022-22222/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users_backup/2022-33333/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/data/Users_backup/2022-44444/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Baseball/3/3_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Baseball/6/6_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Basketball/2/2_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Basketball/9/9_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Football/0/0_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Football/1/1_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Hockey/5/5_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Hockey/8/8_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Volleyball/4/4_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Volleyball/7/7_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-1/Matches_backup/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Baseball/3/3_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Baseball/6/6_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Basketball/2/2_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Basketball/9/9_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Football/0/0_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Football/1/1_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Hockey/5/5_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Hockey/8/8_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Volleyball/4/4_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Volleyball/7/7_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/solution/problem2-2/Matches/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/Test2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/match/Betting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/match/Match.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/server/Server.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/user/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/utils/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/utils/ErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/utils/HashPair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/src/utils/Pair.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/12.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/13.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/14.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/15.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/16.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Baseball/3/3_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Baseball/6/6_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Basketball/2/2_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Basketball/9/9_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Football/0/0_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Football/1/1_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Hockey/5/5_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Hockey/8/8_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Volleyball/4/4_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Volleyball/7/7_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Matches_backup/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00000/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00001/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00002/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00003/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00004/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00005/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00006/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00007/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00008/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00009/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00010/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00011/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00012/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00013/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00014/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/data/Users/2020-00015/newBettings.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Baseball/3/3_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Baseball/3/3_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Baseball/6/6_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Baseball/6/6_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Basketball/2/2_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Basketball/2/2_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Basketball/9/9_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Basketball/9/9_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Football/0/0_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Football/0/0_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Football/1/1_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Football/1/1_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Hockey/5/5_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Hockey/5/5_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Hockey/8/8_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Hockey/8/8_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Volleyball/4/4_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Volleyball/4/4_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Volleyball/7/7_bettingBook.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/solution/problem2-2/Matches/Volleyball/7/7_info.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../2021-18641/HW4/problem2/test2/totalCoin.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/1-1.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/1-2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/1-3.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/1-4.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/1-5.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/stb_image.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/src/stb_image_write.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/input7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem1/test/output.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/Delta.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/Delta.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/RunLength.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/RunLength.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/TestHelper.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/TestHelper.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/src/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test.in" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_1.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_2.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_3.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_4.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_5_delta.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../CP-HW5/hw5/problem2/test/test_2_5_rl.out" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2022" />
+    <option name="minorVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2AVpc1P0eOxC5KUpYfJALj4gkgA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "cmake.loaded.for.project": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "structure.view.defaults.are.configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="CMake Application.problem1_main">
+    <configuration name="Continuous" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="Continuous" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousSubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousSubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContinuousUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ContinuousUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Experimental" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="Experimental" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalSubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalSubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExperimentalUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="ExperimentalUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Nightly" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="Nightly" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyBuild" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyBuild" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyConfigure" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyConfigure" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyCoverage" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyCoverage" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyMemCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyMemoryCheck" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyMemoryCheck" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyStart" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyStart" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlySubmit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlySubmit" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyTest" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyTest" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NightlyUpdate" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="NightlyUpdate" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem1_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="problem1_main" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="problem1" RUN_TARGET_NAME="problem1_main">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="problem1_test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="problem1" TARGET_NAME="problem1_test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="problem1" RUN_TARGET_NAME="problem1_test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.Continuous" />
+      <item itemvalue="CMake Application.ContinuousBuild" />
+      <item itemvalue="CMake Application.ContinuousConfigure" />
+      <item itemvalue="CMake Application.ContinuousCoverage" />
+      <item itemvalue="CMake Application.ContinuousMemCheck" />
+      <item itemvalue="CMake Application.ContinuousStart" />
+      <item itemvalue="CMake Application.ContinuousSubmit" />
+      <item itemvalue="CMake Application.ContinuousTest" />
+      <item itemvalue="CMake Application.ContinuousUpdate" />
+      <item itemvalue="CMake Application.Experimental" />
+      <item itemvalue="CMake Application.ExperimentalBuild" />
+      <item itemvalue="CMake Application.ExperimentalConfigure" />
+      <item itemvalue="CMake Application.ExperimentalCoverage" />
+      <item itemvalue="CMake Application.ExperimentalMemCheck" />
+      <item itemvalue="CMake Application.ExperimentalStart" />
+      <item itemvalue="CMake Application.ExperimentalSubmit" />
+      <item itemvalue="CMake Application.ExperimentalTest" />
+      <item itemvalue="CMake Application.ExperimentalUpdate" />
+      <item itemvalue="CMake Application.Nightly" />
+      <item itemvalue="CMake Application.NightlyBuild" />
+      <item itemvalue="CMake Application.NightlyConfigure" />
+      <item itemvalue="CMake Application.NightlyCoverage" />
+      <item itemvalue="CMake Application.NightlyMemCheck" />
+      <item itemvalue="CMake Application.NightlyMemoryCheck" />
+      <item itemvalue="CMake Application.NightlyStart" />
+      <item itemvalue="CMake Application.NightlySubmit" />
+      <item itemvalue="CMake Application.NightlyTest" />
+      <item itemvalue="CMake Application.NightlyUpdate" />
+      <item itemvalue="CMake Application.problem1_main" />
+      <item itemvalue="CMake Application.problem1_test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7772784c-38ff-42a7-b060-18277e641af6" name="Changes" comment="" />
+      <created>1655104686152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655104686152</updated>
+      <workItem from="1655104687519" duration="1533000" />
+      <workItem from="1655121294721" duration="108000" />
+      <workItem from="1655121489016" duration="1345000" />
+      <workItem from="1655162774944" duration="2886000" />
+      <workItem from="1655167029616" duration="2037000" />
+      <workItem from="1655185048447" duration="9626000" />
+      <workItem from="1655203702407" duration="5403000" />
+      <workItem from="1655269667253" duration="12061000" />
+      <workItem from="1655344855215" duration="3493000" />
+      <workItem from="1655351325980" duration="19000" />
+      <workItem from="1655358190055" duration="742000" />
+      <workItem from="1655359769017" duration="260000" />
+      <workItem from="1655360067097" duration="11000" />
+      <workItem from="1655360673009" duration="1458000" />
+      <workItem from="1655371592584" duration="1314000" />
+      <workItem from="1655514631074" duration="29000" />
+      <workItem from="1655624011822" duration="2870000" />
+      <workItem from="1655641827279" duration="7377000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
